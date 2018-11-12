@@ -1,0 +1,7 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "quotes",
+  "main": "server.js",
+  "license": "MIT"
+}
